@@ -16,4 +16,5 @@ To run this project, you will need Python installed on your system along with th
 2. Install the required `pandas` library by running the following command in your terminal:
    ```bash
    pip install pandas
+   or
    pip3 install pandas
